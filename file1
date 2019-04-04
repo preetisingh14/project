@@ -33,7 +33,7 @@ printf("Child is not created");
 else if(pro==0)
 {
 printf("\n The sequence is : ");
-for(int i=n; i>0; i=i/2)
+for(int i=num; i>0; i=i/2)
 {
 printf(" %d ", i);
 }
