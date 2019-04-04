@@ -15,7 +15,7 @@ scanf("%d",&num);
 
 if(num>0)
 {
-goto A;
+goto B;
 }
 else
 {
